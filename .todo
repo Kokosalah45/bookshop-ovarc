@@ -1,0 +1,5 @@
+- if you have time clean up the layout components to slot pattern
+- add clean unordered list that takes the data and the ui from outside as props
+- add styling to tailwind config 
+- add docker with nginx if you have time
+- use list virtualization if you have time
